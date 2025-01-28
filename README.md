@@ -15,8 +15,8 @@ import 'package:vigilant/vigilant.dart';
 
 // Create the logger
 final logger = Logger(
-  endpoint: 'https://api.vigilant.run',
-  token: 'your-token',
+  endpoint: 'ingress.vigilant.run',
+  token: 'tk_1234567890',
 );
 
 // Send a message to the logger
